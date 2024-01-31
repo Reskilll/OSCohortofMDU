@@ -21,7 +21,7 @@
 
 ## How to Contribute
 
-We welcome contributions from all participants to enhance the learning experience. If you'd like to contribute to this repository, follow the steps below:
+We welcome contributions from all lovely participants to enhance the learning experience. If you'd like to contribute to this repository, follow the steps below:
 
 ## Get Involved
 - Register for the event here: [Click me](https://reskilll.com/event/osmdu)
