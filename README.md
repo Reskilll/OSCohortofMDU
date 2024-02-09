@@ -34,4 +34,8 @@ Join our [WhatsApp](https://chat.whatsapp.com/CWZkGk5nmu7J2ni0ICSXZu) for real-t
 
 Day 6 of the workshop will feature Speaker Talks on the Future of AI and Open Source. More details will be disclosed on the last day of the campus event.
 
+## The Programs to make to generate PR.
+
+Just write any choice of your program and practise all the concepts which are taught in the 5-day workshop then generate a pr for that.
+
 Happy coding and learning! 🚀
